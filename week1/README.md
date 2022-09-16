@@ -1,5 +1,5 @@
-#DENEME
+DENEME
 
-##Alt Bilgi
+Alt Bilgi
  
  Java Bootcamp Dersleri
